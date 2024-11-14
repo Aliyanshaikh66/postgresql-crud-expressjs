@@ -1,1 +1,1 @@
-# Postgresql-crud-expressjs
+# PostgreS-crud-expressjs
